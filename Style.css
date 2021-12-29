@@ -1,0 +1,86 @@
+body{
+    text-align: center; 
+    margin: auto;
+    padding-top: 10px
+}
+
+#font{
+    font-size: 100px;
+    font-weight: 400;
+    font-family: Corinthia
+}
+
+h1{font-size:50px;
+font-weight:50;
+font-family: fantasy
+    
+}
+
+img{
+    border-radius: 28px;
+    height: 500px;
+    width:750px
+}
+
+#intro{
+    background-color: antiquewhite
+}
+
+##Konkan{
+    background-color: lightyellow
+}
+
+#BestSevenBeaches{
+    background-color: aquamarine
+}
+
+#beach{
+    font-family: Parisienne;
+    font-size: 70px;
+    font-weight: 300
+}
+
+#Ganeshghulebeach { 
+    background-color:antiquewhite
+}
+
+p{
+    font-size:20px;
+    font-weight:100;
+    font-family:monospace
+}
+
+#Koltharebeach{
+    background-color:cornsilk
+}
+
+#AareyWarebeach{
+    background-color: lightblue
+}
+
+#Kashidbeach{
+    background-color:blanchedalmond
+}
+
+#Ganapatipulebeach{
+    background-color: navajowhite
+}
+
+#Bhatyebeach{
+    background-color: powderblue
+}
+
+#Diveagarbeach{
+    background-color: sandybrown
+}
+
+.menu {
+    list-style: none;
+    font-family: fantasy;
+    position: fixed;
+    top:30px;
+    right: 30px
+    cursor:pointer;
+    z-index:10;}
+    
+    
